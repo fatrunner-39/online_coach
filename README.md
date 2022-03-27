@@ -34,7 +34,7 @@
 * Получение списка тренировок 
 
 /api/v1/workouts/ 
-![]() 
+![](https://github.com/fatrunner-39/online_coach/blob/master/screenshots/get_workouts.jpg) 
 
 * Удаление тренировки 
 
